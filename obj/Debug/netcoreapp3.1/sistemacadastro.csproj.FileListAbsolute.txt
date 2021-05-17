@@ -1,0 +1,13 @@
+C:\Users\joaop\Documents\sistemacadastro\bin\Debug\netcoreapp3.1\sistemacadastro.exe
+C:\Users\joaop\Documents\sistemacadastro\bin\Debug\netcoreapp3.1\sistemacadastro.deps.json
+C:\Users\joaop\Documents\sistemacadastro\bin\Debug\netcoreapp3.1\sistemacadastro.runtimeconfig.json
+C:\Users\joaop\Documents\sistemacadastro\bin\Debug\netcoreapp3.1\sistemacadastro.runtimeconfig.dev.json
+C:\Users\joaop\Documents\sistemacadastro\bin\Debug\netcoreapp3.1\sistemacadastro.dll
+C:\Users\joaop\Documents\sistemacadastro\bin\Debug\netcoreapp3.1\sistemacadastro.pdb
+C:\Users\joaop\Documents\sistemacadastro\obj\Debug\netcoreapp3.1\sistemacadastro.csprojAssemblyReference.cache
+C:\Users\joaop\Documents\sistemacadastro\obj\Debug\netcoreapp3.1\sistemacadastro.AssemblyInfoInputs.cache
+C:\Users\joaop\Documents\sistemacadastro\obj\Debug\netcoreapp3.1\sistemacadastro.AssemblyInfo.cs
+C:\Users\joaop\Documents\sistemacadastro\obj\Debug\netcoreapp3.1\sistemacadastro.csproj.CoreCompileInputs.cache
+C:\Users\joaop\Documents\sistemacadastro\obj\Debug\netcoreapp3.1\sistemacadastro.dll
+C:\Users\joaop\Documents\sistemacadastro\obj\Debug\netcoreapp3.1\sistemacadastro.pdb
+C:\Users\joaop\Documents\sistemacadastro\obj\Debug\netcoreapp3.1\sistemacadastro.genruntimeconfig.cache
